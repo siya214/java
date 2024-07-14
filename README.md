@@ -1,2 +1,5 @@
 # java
-This repository will house some of my java projects.
+I have 3 java projects in this repository.
+- Student Grade Calculator.
+- Currency Converter.
+- Number Game.
